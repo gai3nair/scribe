@@ -1,6 +1,10 @@
 # Steps
 
 ## Step 5: Set preferences for receiving notifications
+<nav>
+<a href="index.html"> Home   | </a>
+<a href="testimonial.html"> Testimonial for TWT </a>
+</nav>
 
 Complete the following steps to set your preferences for receiving various types of notifications:
 
