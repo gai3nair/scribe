@@ -6,7 +6,7 @@
 
 # Passenger List
 
-This page includes the name and Age of the passengers travelling in Titanic:
+This page includes the Name and Age of the passengers travelling in Titanic:
 
 {% for item in site.data.titanic %}
 -  {{item.Name}}, {{item.Age}}
