@@ -1,2 +1,2 @@
-<hr/>This page contains the submission for Doc as Code final evaluation by Gayatri.
+<hr/>This page contains the _submission_ for *Doc as Code* final evaluation by Gayatri.
 <hr/>
