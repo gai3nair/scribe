@@ -9,5 +9,5 @@
 This page includes the following information about the passengers travelling in Titanic:
 
 {% for item in site.data.titanic %}
-- {{item.Name}} - {{item.Age}}
+- Name: {{item.Name}}, Age: {{item.Age}}
 {% endfor %}
