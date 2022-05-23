@@ -33,6 +33,7 @@ As an accomplished writer, she has mastered the skill of authoring end user docu
 -  User Guide
   
 Some of her job responsibilities include the following:
+
 **Management**
 -  Coaches, mentors, and trains the team with the required information on tools and concepts to impart adequate knowledge required to perform the job; and conducts frequent performance-related conversations with the team to identify improvement areas and inspire enhanced performances
 -  Performs audience analysis and shares strategies with the team to produce user-friendly content
@@ -42,3 +43,8 @@ Some of her job responsibilities include the following:
 -  Tracks progress of the user story using the project management tool and generates time estimation and delivery timelines.
 -  Participates in brainstorming sessions to discuss the strategies to improve user experience.
 -  Represents the team in the Scrum of Scrums (SoS) meeting and apprises the team accordingly Collaborates with the Product Owner for Product backlog management, concept grooming, and continuous delivery of features
+
+**Writing**
+-  Researched, authored, updated, reviewed, and solicited approvals for documentation deliverables such as Installation guides, User guides, Administration Guides, Message Guides, Reference Guides, and Release Notes
+-  Meticulously validated the documents as per the standard formats and ensured the content quality using the review process.
+-  Collaborated with the internal and cross-functional teams to produce quality documentation
