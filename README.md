@@ -1,2 +1,2 @@
-# scribe
-My efforts at learning Doc-as-code 
+# Scribe
+My efforts at learning Doc-as-code. 
