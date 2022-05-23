@@ -1,6 +1,7 @@
 <nav>
 <a href="index.html"> Home   | </a>
-<a href="Steps.html"> Steps  </a>
+<a href="Steps.html"> Steps  |</a>
+<a href="passengers.html"> Passengers  </a>
 </nav>
 
 # Testimonial for TechWriter's Tribe
