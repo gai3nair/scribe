@@ -6,7 +6,7 @@ layout: template
 
 # Profile
 
-This document is published in {{page.year}} by {{site.author_main}}.
+This document is published in {{page.year}} by {{page.author}}.
 
 ![Technical Writing](https://image.shutterstock.com/image-photo/double-exposure-womans-hands-making-260nw-1517340614.jpg)
 
