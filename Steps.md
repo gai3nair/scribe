@@ -37,8 +37,8 @@ IAM access groups provide a way for you to quickly and easily assign access to m
 	
     b.  Select the type of access to assign:
 	
-		-  **IAM services** - Assigns access to IAM-enabled services, which are services that are managed by using IAM access control and assigned to a resource group.
-		-  **Account management services** - Assigns access to manage platform services, such as billing, license and entitlements, and enterprises.
+		-  <b>IAM services</b>: Assigns access to IAM-enabled services, which are services that are managed by using IAM access control and assigned to a resource group.
+		-  <b>Account management services</b>: Assigns access to manage platform services, such as billing, license and entitlements, and enterprises.
 
     c.  Select all roles that apply.
 	
